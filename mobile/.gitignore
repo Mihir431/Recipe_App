@@ -1,0 +1,39 @@
+# Node and environment files
+.env
+.env*.local
+node_modules/
+*.tsbuildinfo
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# Debug logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# Example App
+app-example/
+
+# GitHub recommends
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
